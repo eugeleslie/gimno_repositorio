@@ -25,7 +25,7 @@ header nav ul li {
 }
 
 .nav-link:hover {
-    color: #4EC438;
+    color: #000000;
     font-weight: bold;
     text-decoration: underline;
 }
@@ -35,7 +35,13 @@ header nav ul li {
     font-size: 25px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
-}
+    }
+    .fondo2{
+        background-image: url(../img/barra\ colores.jpg);
+        background-repeat: repeat-y;
+        background-size: cover;
+        margin-bottom: 2rem;
+        }
 /* carrusel */
 .container{
     width: 80rem;
